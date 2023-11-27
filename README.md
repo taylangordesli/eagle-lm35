@@ -1,2 +1,2 @@
-# eagle-lm35
-A library for LM35 heat sensor in EAGLE.
+# eagle-lm35-arduinoNano
+A library for LM35 heat sensor and Arduino Nano card in EAGLE.
